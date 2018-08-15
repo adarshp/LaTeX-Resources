@@ -21,5 +21,5 @@ Other links that might be useful:
 
 - My [dissertation](https://github.com/adarshp/dissertation), in which I use the
  `memoir` package to set the layout.
-- My [CV](https://github.com/adarshp/Curriculum-Vitae), in which I use the super 
-  helpful `ctabular` environment to keep things nicely aligned.
+- My [CV](https://github.com/adarshp/Curriculum-Vitae), in which I use
+    `memoir`'s `ctabular` environment to keep things nicely aligned.
